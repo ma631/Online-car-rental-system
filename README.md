@@ -18,3 +18,4 @@ Client-side
 3. Javascript
 
 # ER Diagram
+![Screenshot (673)](https://user-images.githubusercontent.com/73124430/189500551-3ec25456-c232-4540-9537-0ff40f78471f.png)
