@@ -21,7 +21,7 @@ Client-side
 1. Users
 2. Admin
 
-1. Register Users
+## Register Users
 Anyone can register through the registration page.
 After a successful registration user can log in with valid email and password. User can recover own password by providing some registered info.
 
@@ -31,12 +31,12 @@ After successful login user can do the following things–
 2. View Car booking history
 3. Logout
 
-2. Admin
+## Admin
 Admin is the superuser of the website who can manage everything on the website. Admin can log in through the login page
 
-Admin Features–
+### Admin Features–
 
-1.Admin can create vehicle brands
+1. Admin can create vehicle brands
 2. Manage Vehicle Brands(Edit, Delete)
 3. Post Vehicle
 4. Manage vehicle(Edit,Delete)
